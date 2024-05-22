@@ -1,0 +1,33 @@
+.convert{
+width: 100%;
+background: rgb(233,245,255);
+}
+
+.convert__body{
+min-height: 200px;
+display: flex;
+flex-direction: row;
+gap: 32px;
+}
+
+.convert__item{
+width: 352px;
+height: 189px;
+display: flex;
+border-radius: 8px;
+background: rgba(19, 145, 206, 1);
+margin-top: 176px;
+
+}
+
+.convert__text{
+font-size: 22px;
+font-weight: 700;
+line-height: 25.78px;
+letter-spacing: 0.04em;
+text-align: center;
+color: rgb(255,255,255,1);
+display: flex;
+align-items: center;
+padding: 34px;
+}

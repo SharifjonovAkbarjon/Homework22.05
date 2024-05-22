@@ -1,0 +1,41 @@
+.footer{
+width: 100%;
+background: rgba(19, 145, 206, 1);
+padding: 32px;
+}
+
+.footer__body{
+height: 80px;
+}
+
+.footer__text{
+display: flex;
+width: 100%;
+}
+
+.footer__title{
+display: flex;
+margin-top: 21px;
+flex: 1;
+gap: 2px;
+}
+
+.footer__paragraph{
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 21.49px;
+color: rgba(48, 46, 47, 1);
+}
+
+.footer__matn{
+display: flex;
+margin-top: 21px;
+}
+
+.footer__parag{ 
+font-size: 16px;
+font-weight: 700;
+line-height: 21.49px;
+color: rgba(255, 255, 255, 1);
+}
